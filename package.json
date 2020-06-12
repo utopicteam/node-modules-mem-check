@@ -1,0 +1,27 @@
+{
+  "name": "modules-mem-check",
+  "version": "1.0.0",
+  "description": "Node Modules Memory Checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "modules-mem-check": "./bin/index.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utopicteam/node-modules-mem-check.git"
+  },
+  "keywords": [
+    "memory",
+    "monitor"
+  ],
+  "author": "Utopic.tech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utopicteam/node-modules-mem-check/issues"
+  },
+  "homepage": "https://github.com/utopicteam/node-modules-mem-check#readme"
+}
